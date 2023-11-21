@@ -13,6 +13,10 @@
 
 ## Unreleased
 
+### Added
+
+-   Template for react pages.
+
 ## [V-0.1]
 
 ### Added

@@ -939,6 +939,11 @@
 			"title": "Page No Title"
 		},
 		{
+			"name": "page-react",
+			"postTypes": ["page"],
+			"title": "Page React"
+		},
+		{
 			"name": "page-with-sidebar",
 			"postTypes": ["page"],
 			"title": "Page With Sidebar"
